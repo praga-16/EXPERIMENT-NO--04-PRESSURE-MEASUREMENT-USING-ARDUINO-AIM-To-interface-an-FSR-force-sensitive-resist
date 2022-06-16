@@ -75,8 +75,8 @@ The easiest way to measure a resistive sensor is to connect one end to power and
 10.	Plot the graph for the output voltage vs the resistance 
 
 ```
-Program Developed by :M.GUNASEKHAR
-Reference Number     :212221240014
+Program Developed by :PRAGATHEESVARAN AB
+Reference Number     :212221240039
 
 ### PROGRAM 
 #define fsrpin A0
